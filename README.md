@@ -2,7 +2,7 @@
 
 Begin point and getting start to SFML using CPP.
 
-# Install
+# SFML
 
 ### Gnu/Linux
 
@@ -35,3 +35,7 @@ Total Installed Size:  12.64 MiB
 :: Running post-transaction hooks...
 (1/1) Arming ConditionNeedsUpdate...
 ```
+
+### Windows
+
+We can use from the `SFML/` directory.
