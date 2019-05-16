@@ -43,10 +43,10 @@ Total Installed Size:  12.64 MiB
 
 We can use from the `SFML/` directory.
 
-### Extra References
+## Extra References
 
 https://www.sfml-dev.org/tutorials/2.5/
 
-### License
+## License
 
 FirstSFML is licensed under the [GNU General Public License](LICENSE).
