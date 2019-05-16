@@ -49,4 +49,4 @@ https://www.sfml-dev.org/tutorials/2.5/
 
 ### License
 
-FirstSFML is licensed under the [GNU General Public License](License).
+FirstSFML is licensed under the [GNU General Public License](LICENSE).
