@@ -2,7 +2,10 @@
 
 Begin point and getting start to SFML using CPP.
 
-# SFML
+**[Note] :**
+When we write software using `.c`, We should use c++ compiler for the build step.
+
+## SFML
 
 ### Gnu/Linux
 
