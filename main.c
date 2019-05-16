@@ -1,6 +1,6 @@
 /**
 *
-* @Name : FirstSFML/test.c
+* @Name : FirstSFML/main.c
 * @Version : 1.0
 * @Programmer : Max
 * @Date : 2019-05-16
