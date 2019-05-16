@@ -3,7 +3,7 @@
 Begin point and getting start to SFML using CPP.
 
 **[Note] :**
-When we write software using `.c`, We should use c++ compiler for the build step.
+When we write software using C language with `.c` format, We should use c++ compiler for the build step.
 
 ## SFML
 
