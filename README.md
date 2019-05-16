@@ -2,6 +2,8 @@
 
 Begin point and getting start to SFML using CPP.
 
+![ScreenShot](screenshot1.png)
+
 **[Note] :**
 When we write software using C language with `.c` format, We should use c++ compiler for the build step.
 
