@@ -26,8 +26,8 @@ Total Installed Size:  12.64 MiB
  sfml-2.5.1-1-x86_64                      1429.0 KiB   946K/s 00:02 [#####################################] 100%
 (2/2) checking keys in keyring                                      [#####################################] 100%
 (2/2) checking package integrity                                    [#####################################] 100%
-(2/2) loading package files                                         [#####################################] 100%
-(2/2) checking for file conflicts                                   [#####################################] 100%
+(2/2) loading package files                                          [#####################################] 100%
+(2/2) checking for file conflicts                                     [#####################################] 100%
 (2/2) checking available disk space                                 [#####################################] 100%
 :: Processing package changes...
 (1/2) installing glew                                               [#####################################] 100%
